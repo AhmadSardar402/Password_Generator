@@ -1,3 +1,5 @@
 # Overview
+This is a password generator created in ReactJS using TailwindCSS.
 
-This is a password generator.
+#Live Demo
+https://password-generator-react01.netlify.app/
